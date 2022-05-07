@@ -7,7 +7,8 @@
   "scripts": {
     "test": "jest",
     "watch": "tsc -w",
-    "exe": "node --experimental-modules"
+    "exe": "node --experimental-modules",
+    "doc": "node ./scripts/doc.cjs"
   },
   "repository": {
     "type": "git",
